@@ -1,4 +1,6 @@
-# widget-uas
+# UAS LAB PBK A
+NAMA : RONGGO RISTANTO
+NPM : 193510203
 
 ## Project setup
 ```
